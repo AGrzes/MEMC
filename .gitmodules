@@ -1,0 +1,3 @@
+[submodule "control/angular"]
+	path = control/angular
+	url = git@github.com:AGrzes/MEMC-control-angular.git
